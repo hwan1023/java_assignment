@@ -1,4 +1,4 @@
-package com.hanhwa_java_assignment.assignment08.level01.normal;
+package com.hanhwa_java_assignment.assignment09.level02.normal;
 
 public class Application2 {
     public static void main(String[] args) {
